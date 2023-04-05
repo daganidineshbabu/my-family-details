@@ -1,0 +1,10 @@
+task 3 : my family details
+{"family - member" : ["joseph", relation, "father"] }
+{"family - member" : ["dhanalakshmi", relation, "mother"] }
+{"family - member" : [ "maheshbabu" , relation, "brother"] }
+{"family - member" : ["sripriyadevi", relation, "sister"] }
+{"family - member" : ["prakashbabu" , relation, "younger brother"] }
+{"family - member" : ["dineshbabu" , relation "self" ] }
+{"family - member" : ["swapna" , relation , "sister in law"] }
+{"family - member" : ["tushar" , relation , "brother son"] }
+{"family - member" : ["joe akheer" , relation , "brother son"] }
