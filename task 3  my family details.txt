@@ -1,0 +1,11 @@
+task 3 
+type* family member details
+1.joseph, relation : father
+2.dhanalakshmi, relation : mother
+3.maheshbabu, relation : elder brother
+4.sripriyadevi, relation : sister
+5.prakashbabu, relation : younger brother
+6.dineshbabu, relation : self
+7swapna, relation : sister in law
+8.tushar, relation :brother son
+9.joeakheer, relation :brother son
